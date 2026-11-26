@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fridge Roast: One Line, Biggest Laugh — one-line entry writer.
+"""Fridge Roast: One Line, Biggest Laugh, one-line entry writer.
 
 Writes a single roast line (at most 200 characters, no em-dash) to
 entry.txt inside MAKEFUN_OUTPUT_DIR (default /output).
